@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url("assets/MetalMania-Regular.ttf");
+  src: url("assets/Alien-Encounters-Solid-Bold-Italic.ttf");
+}
+
+* {
+  font-family: myFirstFont;
+}
